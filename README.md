@@ -14,9 +14,9 @@ We have provided a clean data set for this project. Although in real-life scenar
 We used the Fundamentals.csv and Securities.csv files provided by Kaggle. The Fundamentals file provides the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The Securities file provided the industry or sector information the companies are categorized under on the S&P 500 index.
 
 
-## <b>What skills will I use?</b><br>
+## <b>What skills I am using?</b><br>
 
-The main goal of this project is for you to demonstrate your ability to:
+The main goal of this project is to demonstrate my ability to:
 
 * interpret the measures of central tendency and spread (mean, median, standard deviation, range).
 use a combination of Excel or Google Sheets functions (e.g., IF statements, INDEX, and MATCH, calculating descriptive statistics with the IF statement, dropdowns, data validation, VLOOKUP).
@@ -31,4 +31,3 @@ The first part of the project is a set of 8 quiz questions, which you will find 
 
 * <b>Part Two</b>:<br>
 The second part of your project is the portion you will turn in for review. You will conduct your own data analysis and create a presentation file to share your findings. You will also create an Excel workbook that contains your calculations of the summary statistics, dashboard, and forecast scenarios. The details of this submission are provided on the last page of this lesson. Pay attention to the details of the Rubric to assure you have all deliverables.
-
