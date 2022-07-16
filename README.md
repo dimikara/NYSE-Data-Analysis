@@ -2,8 +2,7 @@
 
 ## Introduction
 
-In this project I analyze real life data from the New York Stock Exchange. You will be drawing a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. We have created a smaller subset of the data that you will be using for the project.
-
+In this project I analyze real life data from the New York Stock Exchange. The dataset used is a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
 
 ## <b>Why this Project?</b><br>
 In this project, you will go through the process of calculating summary statistics, drawing any inference from the statistics, calculating business metrics, and using models to forecast future growth prospects for the companies. The goal is for you to perform an analysis and also create visual tools to communicate the results in informative ways.
@@ -32,3 +31,4 @@ The first part of the project is a set of 8 quiz questions, which you will find 
 
 * <b>Part Two</b>:<br>
 The second part of your project is the portion you will turn in for review. You will conduct your own data analysis and create a presentation file to share your findings. You will also create an Excel workbook that contains your calculations of the summary statistics, dashboard, and forecast scenarios. The details of this submission are provided on the last page of this lesson. Pay attention to the details of the Rubric to assure you have all deliverables.
+
