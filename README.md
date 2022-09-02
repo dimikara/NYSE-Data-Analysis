@@ -14,9 +14,9 @@ The data set is a clean data set that derived from the Fundamentals.csv and Secu
 Although in real-life scenarios, data sets often need to be cleaned and processed before analysis can proceed, this project gives us the opportunity to see what a clean data set should look like.
 
 
-## <b>Skills to be used</b><br>
+## <b>Used Skills</b><br>
 
-The main goal of this project is to demonstrate my ability to:
+The main goal of this project is for me to demonstrate my ability to:
 
 * Interpret the measures of central tendency and spread (mean, median, standard deviation, range).
 * Use a combination of Excel functions (indicatively: IF statements, INDEX, and MATCH, calculating descriptive statistics with the IF statement, dropdowns, data validation, VLOOKUP, OFFSET).
