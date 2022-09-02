@@ -2,14 +2,16 @@
 
 ## Introduction
 
-In this project I analyze real life data from the New York Stock Exchange. The data set used is a subset of a large data set provided by Kaggle that contains historical financial data from S&P 500 companies. 
+In this project I analyze real life data from the New York Stock Exchange. 
 
 The goal is to perform an analysis and create visual tools to communicate the results in informative ways.
 
 
 ## <b>Data set</b><br>
 
-The data set is a clean data set that derived from the Fundamentals.csv and Securities.csv files provided by [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse). The Fundamentals file provides the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The Securities file provided the industry or sector information the companies are categorized under on the S&P 500 index.
+The data set used is a subset of a large data set provided by [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse) that contains historical financial data from S&P 500 companies.
+
+The used data set is a clean data set that derived from the _fundamentals.csv_ and _securities.csv_ files provided by Kaggle. The _fundamentals_ file provided the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The _securities_ file provided the industry or sector information the companies are categorized under on the S&P 500 index.
 
 Although in real-life scenarios, data sets often need to be cleaned and processed before analysis can proceed, this project gives us the opportunity to see what a clean data set should look like.
 
