@@ -42,7 +42,7 @@ The project consists of the following:<br>
 
 New York Stock Exchange, S&P 500 companies historical prices with fundamental data.
 
-License: <b>CC0 - Public Domain<b>
+License: <b>CC0 - Public Domain</b>
 
 For more info on the data set, you may refer to this [Kaggle page](https://www.kaggle.com/datasets/dgawlik/nyse).
 
