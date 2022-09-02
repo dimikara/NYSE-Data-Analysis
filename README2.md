@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project I analyze real life data from the New York Stock Exchange. The dataset used is a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. 
+In this project I analyze real life data from the New York Stock Exchange. The data set used is a subset of a large data set provided by Kaggle that contains historical financial data from S&P 500 companies. 
 
 The goal is to perform an analysis and create visual tools to communicate the results in informative ways.
 
@@ -30,7 +30,7 @@ The project consists of the following:<br>
 * Conducting a data analysis and creating a presentation file to share the findings
 
 * Creating an Excel workbook that contains the following tabs:
-  * **Dataset** - It contains the raw data
+  * **Data Set** - It contains the raw data
   * **Summary Statistics** - It includes the calculations of the summary statistics
   * **P&L Statement Dashboard**
   * **Forecast Model** - 3 forecast scenarios (Best Case Scenario, Base Case Scenario, Weak Case Scenario) to forecast future growth prospects for a company
