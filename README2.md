@@ -10,6 +10,7 @@ The goal is to perform an analysis and create visual tools to communicate the re
 ## <b>Data set</b><br>
 
 The data set is a clean data set that derived from the Fundamentals.csv and Securities.csv files provided by Kaggle. The Fundamentals file provides the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The Securities file provided the industry or sector information the companies are categorized under on the S&P 500 index.
+
 Although in real-life scenarios, data sets often need to be cleaned and processed before analysis can proceed, this project gives us the opportunity to see what a clean data set should look like.
 
 
@@ -37,4 +38,11 @@ The project consists of the following:<br>
   * **Reference** - an auxiliary tab
 
 
+## <b>Dataset Citation</b><br>
+
+New York Stock Exchange, S&P 500 companies historical prices with fundamental data.
+
+License: CC0 - Public Domain
+
+For more info on the data set, you may refer to this [Kaggle page](https://www.kaggle.com/datasets/dgawlik/nyse).
 
