@@ -13,7 +13,7 @@ The data set used is a subset of a large data set provided by [Kaggle](https://w
 
 The used data set is a clean data set that derived from the _fundamentals.csv_ and _securities.csv_ files provided by Kaggle. The _fundamentals_ file provided the fundamental financial data gathered from SEC 10K annual filings from 448 companies listed on the S&P 500 index. The _securities_ file provided the industry or sector information the companies are categorized under on the S&P 500 index.
 
-The following information is included in the _Projectdata NYSE file_:
+The following information is included in the _projectdata-nyse.csv_ file:
 - __Ticker symbol__: Stock symbol
 - __Years__: Number of years for which data is provided
 - __Period ending__
